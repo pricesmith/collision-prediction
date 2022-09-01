@@ -1,5 +1,4 @@
-# collision-prediction
-You're drunk six-axis robotic arm. Go home. 
+# You're drunk Six-Axis Robotic Arm. Go home. 
 
 #### Todo
 - [ ] Link relevant articles
