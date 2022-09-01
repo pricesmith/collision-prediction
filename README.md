@@ -1,6 +1,6 @@
 # You're drunk Six-Axis Robotic Arm. Go home. 
 
-#### Todo
+### Todo
 - [ ] Link relevant articles
 - [ ] Write out clarifying questions
 - [ ] Illustrate requirements
